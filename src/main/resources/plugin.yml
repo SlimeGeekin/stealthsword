@@ -1,0 +1,4 @@
+name: stealthsword
+version: '1.0-SNAPSHOT'
+main: me.eclipsorz.stealthsword.Stealthsword
+api-version: '1.20'
